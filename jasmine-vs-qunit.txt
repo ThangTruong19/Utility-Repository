@@ -1,1 +1,17 @@
-https://stackshare.io/stackups/jasmine-vs-qunit
+Link tham khảo: https://stackshare.io/stackups/jasmine-vs-qunit
+
+Theo cộng đồng StackShare:
+Jasmine và QUnit đều là các công cụ mã nguồn mở. 
+Jasmine với 14,4K sao GitHub và 2,12K dĩa trên GitHub dường như phổ biến hơn QUnit với các sao GitHub 3,82K và dĩa 762 GitHub.
+ Jasmine có sự chấp thuận rộng hơn, được đề cập trong 143 stacks của công ty & 75 stacks của nhà phát triển.
+ QUnit, được liệt kê trong 11 stacks của công ty và 6 stacks của nhà phát triển.
+
+Jasmine as "DOM-less simple JavaScript testing framework"
+   Jasmine là một Behavior Driven Development testing framework for JavaScript ,không dựa vào trình duyệt.
+   Do đó, nó phù hợp với các trang web, dự án Node.js hoặc bất kỳ nơi nào JavaScript có thể chạy.	
+QUnit: "A JavaScript Unit Testing framework"
+   Dễ sử dụng. Nó được sử dụng bởi các dự án jQuery, jQuery UI và jQuery Mobile ,
+   có khả năng kiểm tra bất kỳ mã JavaScript chung nào, bao gồm cả chính nó.
+
+=> Nếu dự án JQuery thì có thể chọn 1 trong 2 framework trên đều được.
+Qua nhiều dự án sử dụng JUnit thì mình thấy sử dụng jasmine khá nhiều. Nodejs, angular... đều sử dụng jasmine và JUnit khá tốt.
